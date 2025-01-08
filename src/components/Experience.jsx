@@ -23,6 +23,7 @@ export const Experience = () => {
           far={10}
           resolution={256}
           color="#000000"
+          
         />
       <Avatar animation={animation} />
       {animation === "Typing" && (
